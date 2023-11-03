@@ -1,4 +1,5 @@
 # shopify
 
 1. First Create Vite APP:
-   #npm create vite@latest
+   <br>
+   Command:  npm create vite@latest
