@@ -13,11 +13,13 @@
 <br>
           npm install
 <br>
-          <a>npm run dev</a>
+          npm run dev
 <br>
 
 4. Intall some Pakege
 
-   Command Run : <a>npm i react-icons</a>
+   Command Run : npm i react-icons
 
-5. 
+5. In Last Clone My Github Code:
+   <br>
+   Command Run :  git clone "https://github.com/manish8472/shopify"
