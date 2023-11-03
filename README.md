@@ -17,6 +17,12 @@
    Command Run : npm i react-icons
 
    <br> 
-5. Run :  npm run dev 
+5. Run :  npm run dev
+
+<br>
+<br>
+<br>
+
+Working Project link : "https://manish8472.github.io/shopify-live/"
 
 
